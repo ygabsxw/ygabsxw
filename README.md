@@ -9,14 +9,10 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygabsxw&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
 </div>
 <div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=github_dark_dimmed)
-
 </div>
 <br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ygabsxw&theme=github_dark_dimmed&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</div>
+
 <br>
 <div align="center">  
 <a href="https://www.instagram.com/gabrieldinizv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=F8F8F2"></a>
