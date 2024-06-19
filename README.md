@@ -33,7 +33,7 @@
 
 ### 🤖 Other Knowledge:
 
-[![Tools](https://skillicons.dev/icons?i=c++&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=cpp&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
