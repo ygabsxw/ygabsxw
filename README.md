@@ -17,16 +17,13 @@
 <a href="https://www.linkedin.com/in/gabriel-diniz-0877b52b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=F8F8F2" target="_blank"></a>
 </div> 
  
-### Main
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css&perline=10)](https://skillicons.dev)
+### 🤖 Main Knowledge:
+
+[![My_Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying in this moment:
 
 [![Tools](https://skillicons.dev/icons?i=java,linux,react,nodejs&perline=10)](https://skillicons.dev)
-
-### 🤖 Other Knowledge:
-
-[![Tools](https://skillicons.dev/icons?i=cpp&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
