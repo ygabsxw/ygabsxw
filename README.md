@@ -15,7 +15,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ygabsxw&theme=nord&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ygabsxw&theme=github_dark_dimmed&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </div>
 <br>
 <div align="center">  
@@ -25,15 +25,15 @@
 </div> 
  
 ### Main
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=py,linux,bash,wordpress&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=java,linux,react&perline=10)](https://skillicons.dev)
 
 ### 🤖 Other Knowledge:
 
-[![Tools](https://skillicons.dev/icons?i=c,js,ts,react,postgres&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=c++&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
