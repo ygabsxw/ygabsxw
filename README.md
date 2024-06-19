@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=java,linux,react&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=java,linux,react,note&perline=10)](https://skillicons.dev)
 
 ### 🤖 Other Knowledge:
 
