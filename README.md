@@ -5,12 +5,12 @@
 <br>
 <div align="center">  
   <a href="https://github.com/ygabsxw">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygabsxw&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygabsxw&layout=compact&langs_count=6&theme=blue_navy"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygabsxw&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygabsxw&layout=compact&langs_count=6&theme=shadow_red"/>
 </div>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=blue_navy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=shadow_red)
 
 </div>
 <br>
