@@ -5,17 +5,17 @@
 <br>
 <div align="center">  
   <a href="https://github.com/ygabsxw">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygabsxw&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygabsxw&layout=compact&langs_count=6&theme=nord"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygabsxw&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygabsxw&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
 </div>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=github_dark_dimmed)
 
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ygabsxw&theme=nord&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ygabsxw&theme=github_dark_dimmed&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </div>
 <br>
 <div align="center">  
