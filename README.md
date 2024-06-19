@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=shadow_red)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygabsxw&theme=red)
 
 </div>
 <br>
