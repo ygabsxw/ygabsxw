@@ -27,11 +27,11 @@
 
 ### 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=java,linux,react,nodejs&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=react,nodejs&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,windows&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,windows,linux&perline=10)](https://skillicons.dev)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
