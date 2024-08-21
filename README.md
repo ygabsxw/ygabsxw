@@ -19,7 +19,11 @@
  
 ### 🤖 Main Knowledge:
 
-[![My_Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp&perline=10)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=java,html,css,js,c&perline=10)](https://skillicons.dev)
+
+### 🤖 Another Knowledge:
+
+[![My_Skills](https://skillicons.dev/icons?i=cpp&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying in this moment:
 
