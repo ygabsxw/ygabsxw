@@ -23,7 +23,7 @@
 
 ### 🤖 Another Knowledge:
 
-[![My_Skills](https://skillicons.dev/icons?i=cpp&perline=10)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=cpp,postgres&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying in this moment:
 
