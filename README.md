@@ -7,6 +7,12 @@
   <a href="https://github.com/ygabsxw">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygabsxw&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygabsxw&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
+   <source
+      height="160px"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=andreeluis&theme=github_dark_dimmed&hide_title=true&hide_border=false&exclude_days=Sun%2CSat"
+      media="(prefers-color-scheme: dark)"
+   />
+   <img height="160px" style="width:100%; display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=ygabsxw&theme=github_dark_dimmed&hide_title=true&hide_border=false&exclude_days=Sun%2CSat" />
 </div>
 <br>
 
