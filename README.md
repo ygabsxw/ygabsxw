@@ -55,7 +55,8 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/ygabsxw/ygabsxw/output/snake.svg)
+![Snake animation](https://raw.github.com/ygabsxw/ygabsxw/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
