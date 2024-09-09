@@ -55,11 +55,4 @@
 
 ###
 
-![Snake animation](https://github.com/ygabsxw/ygabsxw/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ygabsxw&repo=ygabsxw&theme=react)](https://github.com/ygabsxw/ygabsxw)
-
-
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70DBDB&height=120&section=footer"/>
