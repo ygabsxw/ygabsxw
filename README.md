@@ -38,11 +38,11 @@
 
 ### 🤖 Another Knowledge:
 
-[![My_Skills](https://skillicons.dev/icons?i=cpp,postgres&perline=10)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=cpp,nodejs,react,ts,tailwind&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=react,nodejs&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
