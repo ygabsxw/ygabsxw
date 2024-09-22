@@ -36,7 +36,7 @@
 
 [![My_Skills](https://skillicons.dev/icons?i=java,html,css,js,c&perline=10)](https://skillicons.dev)
 
-### 🤖 Another Knowledge:
+### 💻 Another Knowledge:
 
 [![My_Skills](https://skillicons.dev/icons?i=cpp,nodejs,react,ts,tailwind&perline=10)](https://skillicons.dev)
 
