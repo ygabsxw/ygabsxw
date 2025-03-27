@@ -34,15 +34,15 @@
  
 ### 🤖 Main Knowledge:
 
-[![My_Skills](https://skillicons.dev/icons?i=java,html,css,js,c&perline=10)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=react,java,c,swift,tailwind,postgres&perline=10)](https://skillicons.dev)
 
 ### 💻 Another Knowledge:
 
-[![My_Skills](https://skillicons.dev/icons?i=cpp,nodejs,react,ts,tailwind&perline=10)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=cpp,nodejs,ts,js,html,css&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying in this moment:
 
-[![Tools](https://skillicons.dev/icons?i=postgres&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=python&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
